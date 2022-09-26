@@ -1,0 +1,11 @@
+apiVersion: console.openshift.io/v1
+kind: ConsoleLink
+metadata:
+  name: application-menu-testing-blog
+spec:
+  href: 'https://www.imdb.com'
+  location: ApplicationMenu
+  text: IMDB
+  applicationMenu:
+    section: Testing
+    imageURL: https://s.pinimg.com/webapp/favicon-54a5b2af.png
