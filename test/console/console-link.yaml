@@ -3,9 +3,9 @@ kind: ConsoleLink
 metadata:
   name: application-menu-testing-blog
 spec:
-  href: 'https://www.imdb.com'
+  href: 'https://developers.redhat.com/topics/devops'
   location: ApplicationMenu
-  text: IMDB
+  text: DevOps
   applicationMenu:
     section: Testing
     imageURL: https://e7.pngegg.com/pngimages/575/704/png-clipart-computer-icons-test-scalable-graphics-test-score-angle-pencil.png
